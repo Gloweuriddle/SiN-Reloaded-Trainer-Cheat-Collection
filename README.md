@@ -1,5 +1,15 @@
 # 🔫 SiN: Reloaded — Ultimate Trainer & Cheat Collection
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=26&duration=2000&pause=400&color=00FF41&center=true&vCenter=true&multiline=true&width=950&height=120&lines=%5B+SIN+OS+BOOT+%5D+%E2%96%BA+FREEPORT+2037;SINTEK+NETWORK+%E2%96%BA+U4+DRUG+DETECTED;HARDCORPS+BLADE+%E2%96%BA+OVERRIDE+ENGAGED" alt="SiN Reloaded Typing Animation" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="SiN Cyber Glitch Animation">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1200&pause=300&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+%5D+CONSOLE+%3A+superfuzz+%E2%96%BA+GOD+MODE+ON;%5B+%5D+CONSOLE+%3A+wuss+%E2%96%BA+ALL+WEAPONS+ON;%5B+%5D+CONSOLE+%3A+noclip+%E2%96%BA+WALL+BYPASS" alt="SiN Console Status" />
+</p>
 <p align="center">
   <b>Unleash the Arsenal | Rewrite the Code | Conquer SinTEK</b>
 </p>
